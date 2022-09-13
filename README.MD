@@ -6,7 +6,7 @@
 * Sirhurt
 
 # Supported Games
-You can view the supported games [here](https://klem.ca/hub/Features.html).
+You can view the supported games & there features [here](https://klem.ca/hub/Features.html).
 
 # Usage
 ```lua
