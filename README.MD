@@ -1,3 +1,6 @@
+# Join The Discord
+You can join the discord by clicking [here](https://discord.gg/fhhT38AHRa).
+
 # Supported Executers
 * Synapse X (Recommended)
 * Krnl
