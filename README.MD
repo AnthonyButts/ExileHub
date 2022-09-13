@@ -1,9 +1,9 @@
 # Supported Executers
+* Synapse X (Recommended)
 * Krnl
 * ProtoSmasher
 * Sentinel
 * Sirhurt
-* Synapse X
 
 # Usage
 ```lua
