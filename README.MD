@@ -1,3 +1,6 @@
+# Join The Discord
+You can join the discord by clicking [here](https://discord.gg/fhhT38AHRa).
+
 # Supported Executers
 * Synapse X (Recommended)
 * Krnl
@@ -6,7 +9,7 @@
 * Sirhurt
 
 # Supported Games
-You can view the supported games [here](https://klem.ca/hub/Features.html).
+You can view the supported games & there features [here](https://klem.ca/hub/features.html).
 
 # Usage
 ```lua
