@@ -5,6 +5,9 @@
 * Sentinel
 * Sirhurt
 
+# Supported Games
+You can view the supported games [here](https://klem.ca/hub/Features.html).
+
 # Usage
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/BigBoyKlem/ExileHub/main/ExileHub.lua',true))()
